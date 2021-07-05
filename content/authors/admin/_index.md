@@ -46,8 +46,6 @@ superuser: true
 title: Kishor K Paul
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kishor K Paul is a PhD candidate at the Kirby Institute, UNSW Sydney. His PhD research involves estimating the impact of changing climate on vector-borne disease transmission potential, particularly on future risk of dengue infection in Bangladesh. He has extensive experience in surveillance, epidemiological studies, clinical and operational research directed towards improving population health.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
