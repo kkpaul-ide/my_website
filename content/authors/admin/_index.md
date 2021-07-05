@@ -1,27 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include prevention of infectious diseases to improve population health.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Epidemiology
+    institution: UNSW Sydney
+    year: 2023
+  - course: MPH in Epidemiology
+    institution: National Institute of Preventive and Social Medicine (NIPSOM)
+    year: 2014
+  - course: MBBS
+    institution: Dhaka Medical College
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+email: "Kpaul@kirby.unsw.edu.au"
 highlight_name: false
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Emerging infectious diseases
+- Infectious disease epidemiology
+- Public health medicine
+- Clinical research
+- Impact of changing climate on health
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Kirby Institute, UNSW Sydney
+  url: https://kirby.unsw.edu.au/
+role: PhD Candidate
 social:
 - icon: envelope
   icon_pack: fas
@@ -31,18 +32,18 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/kishorpl
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=hWfFSUsAAAAJ&hl=en&inst=7289110936595769722
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/kkpaul-ide
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/kishorpaul
 superuser: true
-title: Jenny Sloane
+title: Kishor K Paul
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
