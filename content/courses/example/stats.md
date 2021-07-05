@@ -1,9 +1,9 @@
 ---
+date: "2021-01-01"
+math: true
 title: Statistics
-date: '2021-01-01'
 type: book
 weight: 40
-math: true
 ---
 
 Introduction to statistics for data science.
